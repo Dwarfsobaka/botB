@@ -1,0 +1,3 @@
+# botB
+
+Bot for Bing
